@@ -1,0 +1,1 @@
+The project will be devoted to configuring, evaluating and comparing recommender system models. It consists of two parts: (1) preparing and understanding the provided dataset and (2) describing, configuring, and comparing the selected algorithms against a given baseline.
